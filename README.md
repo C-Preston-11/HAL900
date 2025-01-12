@@ -1,6 +1,3 @@
-# HAL900
-FPGA based useless box (DE10-Lite)
-
 ## Video
 
 <video width="320" height="240" controls>

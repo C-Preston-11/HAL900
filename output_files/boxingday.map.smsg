@@ -1,1 +1,0 @@
-Warning (10268): Verilog HDL information at sequence1.v(37): always construct contains both blocking and non-blocking assignments File: /home/onm/intelFPGA_lite/23.1std/Whatsinthebox/sequence1.v Line: 37
